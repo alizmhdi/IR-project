@@ -1,0 +1,5 @@
+https://www.semanticscholar.org/paper/Transformer-based-deep-neural-network-language-for-Roshanzamir-Aghajan/6d8052588c62e5bf2a073ae414867a78784ff663
+https://www.semanticscholar.org/paper/MG-BERT%3A-Multi-Graph-Augmented-BERT-for-Masked-BehnamGhader-Zakerinia/b9464b492f6638035d25b42f32ff3d51cb6d1e30
+https://www.semanticscholar.org/paper/Deep-Learning-Based-Proarrhythmia-Analysis-Using-Golgooni-Mirsadeghi/b9e98f630e8eaf77ddcd0f80d1360b611ae61e70
+https://www.semanticscholar.org/paper/A-Deep-Learning-Framework-for-Viable-Tumor-Burden-Jahromi-Khani/1eae26fe1ca566f17468080c3aecab1c3f9efb66
+https://www.semanticscholar.org/paper/An-attribute-learning-method-for-zero-shot-Yazdanian-Shojaee/5a5f7d39433d68059e513b947a9fde62b5d4d3fe

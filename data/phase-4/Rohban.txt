@@ -1,0 +1,5 @@
+https://www.semanticscholar.org/paper/Nucleus-segmentation-across-imaging-experiments%3A-Caicedo-Goodman/0b5b33b7ea1dc12f3e9252ac1852170a6a6775bf
+https://www.semanticscholar.org/paper/Multiresolution-Knowledge-Distillation-for-Anomaly-Salehi-Sadjadi/6885c45614f78f9d2e7cc8ef11b3c38b34e67f7d
+https://www.semanticscholar.org/paper/Data-analysis-strategies-for-image-based-cell-Caicedo-Cooper/1e1f905c5d8c6a2ad18b09ce8eb5d2b4c6b174f5
+https://www.semanticscholar.org/paper/Minimax-Optimal-Sparse-Signal-Recovery-With-Poisson-Rohban-Saligrama/0e16a10560b4f7d5f891b932c79d1b2005407acf
+https://www.semanticscholar.org/paper/ARAE%3A-Adversarially-Robust-Training-of-Autoencoders-Salehi-Arya/10b219619e88931fabb674037bbb633682775136
